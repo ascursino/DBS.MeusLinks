@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Meus Links"
+                OnQuickLaunch="TRUE"
+                TemplateType="10000"
+                Url="Lists/MeusLinks"
+                Description="My List Instance">
+
+
+    <Data>
+      <Rows>
+
+        <Row>
+          <Field Name="Title"    >Google</Field>
+          <Field Name="Link" >http://www.google.com</Field>
+          <Field Name="AbrirNovaJanela"    >true</Field>
+        </Row>
+
+      </Rows>
+    </Data>
+    
+  </ListInstance>
+</Elements>

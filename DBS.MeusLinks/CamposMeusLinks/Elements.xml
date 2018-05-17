@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+  <Field ID="{A6AE7165-D55B-4EDE-A62E-2F48BE7B9EFB}" Type="Text"      Name="Link"            DisplayName="Link"                  Required="TRUE"  ShowInDisplayForm="TRUE" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+  <Field ID="{F33A2B6D-DE93-4E16-8B30-797B0BDF74D7}" Type="Boolean"   Name="AbrirNovaJanela"  DisplayName="Abrir em Nova Janela"  Required="FALSE" ShowInDisplayForm="TRUE" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+
+</Elements>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b504a9c8-8261-4738-a940-846f89f380eb" solutionId="b504a9c8-8261-4738-a940-846f89f380eb" resetWebServer="false" name="DBS.MeusLinks" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="48be14cc-051b-499d-8c13-0d2841d5ef5e" />
+    <featureReference itemId="f39a46cb-8192-4014-affa-765e4493bf9a" />
+  </features>
+</package>

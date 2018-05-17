@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Item (0x01) -->
+  <ContentType ID="0x01009c070a2f38ab4f13aea85e01bcf629af"
+               Name="DBS.MeusLinks - ContentTypeMeusLinks"
+               Group="Custom Content Types"
+               Description="My Content Type"
+               Inherits="TRUE"
+               Version="0">
+    <FieldRefs>
+
+      <FieldRef ID="{A6AE7165-D55B-4EDE-A62E-2F48BE7B9EFB}" Name="Link"           />
+      <FieldRef ID="{F33A2B6D-DE93-4E16-8B30-797B0BDF74D7}" Name="AbrirNovaJanela" />      
+      
+    </FieldRefs>
+  </ContentType>
+</Elements>
